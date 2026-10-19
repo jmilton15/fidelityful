@@ -1,0 +1,6 @@
+{
+  "name": "FidelityFul - Sistema de Fidelidad Fulano Restobar",
+  "description": "Sistema avanzado de fidelidad de clientes para Fulano Restobar Madrid con backend personalizado en Node.js y PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
